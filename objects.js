@@ -1,4 +1,4 @@
 var playlist = {
-  The Beatles: "Yesterday",
-  Billie Eilish: "Bad Guy",
+  theBeatles: "Yesterday",
+  billieEilish: "Bad Guy",
 }
